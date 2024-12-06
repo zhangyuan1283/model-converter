@@ -1,0 +1,15 @@
+# pytorch related dependencies
+torch
+torchvision
+
+# ONNX related dependencies
+onnx
+onnxruntime
+
+# ONNX to TensorFlow dependencies
+onnx-tf
+
+# TensorFlow dependencies
+tensorflow
+
+
