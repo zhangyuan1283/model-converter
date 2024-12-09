@@ -2,4 +2,5 @@
 venv/
 .venv/
 
-
+# ignore pre trained weights
+input_model/*.pth
